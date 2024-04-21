@@ -1,0 +1,33 @@
+/* Style blatantly stolen from: http://bettermotherfuckingwebsite.com/ */
+body{
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.4;
+    font-size: 18px;
+    background-color: #EEEEEE;
+    color: #444;
+    padding:0 10px;
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    /* text-align: justify; */
+}
+h1,h2,h3{
+    line-height: 1.2;
+    font-family: "Roboto Slab", serif;
+}
+
+img{
+    float: left;
+    margin: 10px;
+}
+
+.links {
+    font-size: 22px;
+    list-style-type: none;
+    line-height: 1.2;
+    padding-top: 8px;
+}
+
+li {
+    display: inline;
+    padding:0 5px 0 0;
+}
