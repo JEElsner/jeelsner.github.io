@@ -31,3 +31,14 @@ li {
     display: inline;
     padding:0 5px 0 0;
 }
+
+/* Mostly from here: https://stackoverflow.com/questions/9383163/how-do-i-position-a-div-at-the-bottom-center-of-the-screen */
+footer {
+    position: fixed;
+    left: 50%;
+    bottom: 0px;
+    transform: translate(-50%);
+    margin: 0 auto;
+    font-size: 50%
+}
+ 
